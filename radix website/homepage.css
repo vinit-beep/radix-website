@@ -1,0 +1,54 @@
+.left img {
+    width: 100px;
+    padding: 10px 0 0 250px;
+
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(68, 68, 66);
+
+}
+
+.right a {
+    color: aliceblue;
+    padding: 10px;
+    text-decoration: none;
+
+
+}
+
+.right a:hover {
+    color: aqua;
+    background-color: blue;
+}
+
+.right {
+    padding: 40px 50px;
+
+}
+/* .right a:link{
+    text-decoration: none;
+} */
+
+.home {
+    background-color: gray;
+    margin: 20px;
+  
+   
+
+}
+.homeimage{
+    padding: 40px 100px 40px 550px ;
+   
+}
+.homeimage img{
+    width: 500px;
+}
+.homeimage h2{
+    color: aliceblue;
+    padding:40px 0 0 130px;
+    text-shadow: 5px 5px 5px 5px wheat;
+    
+}
